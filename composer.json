@@ -1,3 +1,8 @@
 {
-    "name": "rebuy/jpgraph"
+    "name": "rebuy/jpgraph",
+    "autoload": {
+        "psr-0": {
+            "Pear_Style": "library/"
+        }
+    }
 }
